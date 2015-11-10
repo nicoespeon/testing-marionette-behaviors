@@ -1,0 +1,27 @@
+// Didn't managed to properly import vendor CSS files with brunch… include them in scss files for now.
+@import "material";
+@import "alert";
+
+// Quick & dirty design to make it display properly for the demo purpose.
+body {
+  padding : 0 10%;
+}
+
+.mdl-badge {
+  margin-right : 40px;
+}
+
+.demo-card-wide.mdl-card {
+  margin-top : 40px;
+  width      : 512px;
+}
+
+.demo-card-wide > .mdl-card__title {
+  color      : #fff;
+  height     : 176px;
+  background : url('/img/welcome_card.jpg') center / cover;
+}
+
+.demo-card-wide > .mdl-card__menu {
+  color : #fff;
+}

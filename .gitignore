@@ -1,0 +1,48 @@
+# Environment configuration files
+app/local.js
+
+# OS files
+.DS_Store
+Thumbs.db
+*.ini
+
+# Temporary files
+*~
+
+# CSS files
+*.css
+
+# Sources
+*.ai
+*.psd
+
+# PDF files
+*.pdf
+
+# Folders
+.idea/
+dist/
+node_modules/
+bower_components/
+public/
+
+# Grunt files
+.grunt/
+_SpecRunner.html
+grunt-aws.json
+
+# Node files
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log

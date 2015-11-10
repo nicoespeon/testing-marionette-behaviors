@@ -1,0 +1,11 @@
+{
+  "name": "testing-marionette-behaviors",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "backbone": "~1.2.3",
+    "lodash": "~3.10.1",
+    "marionette": "~2.4.3",
+    "material-design-lite": "~1.0.6",
+    "sweetalert": "~1.1.3"
+  }
+}
