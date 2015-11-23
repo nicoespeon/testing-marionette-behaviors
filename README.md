@@ -1,21 +1,8 @@
-# brunch-bower-babel-starter
+# Testing Marionette.js Behaviors
 
-This is a Brunch skeleton repo for Brunch+Bower+Babel.
+This is the concrete illustration of a proposed solution to test Marionette.js Behaviors.
 
-I took the 0-starter mentioned in the [Brunch guide](https://github.com/brunch/brunch-guide/blob/master/content/en/chapter04-starting-from-scratch.md) and improved upon it for personal use.
+Related blog posts:
 
-## Install
-
-Install brunch & bower
-
-```
-npm install -g bower brunch
-```
-
-## Usage
-
-```
-brunch new http://github.com/HashNuke/brunch-0-starter path/to/new-project-dir
-cd new-project-dir
-npm install --save brunch bower babel javascript-brunch sass-brunch babel-brunch
-```
+- [Testing Marionette.js Behaviors (EN)](http://www.nicoespeon.com/en/2015/11/testing-marionette-behaviors/)
+- [Tester ses Behaviors Marionette.js (FR)](http://www.nicoespeon.com/fr/2015/11/tester-behaviors-marionette/)
